@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex
-- 👀 I’m interested in Frontend Development. My tech stack is Angular + .NET
+- 👀 I’m interested in frontend development. My stack is Angular + .NET
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React applications to get new skills 
-- 📫 How to reach me oleksandr.leontiev@proton.me
+- 💞️ I’m looking for new a projects with React in frontend to collaborate on and get new skills
+- 📫 You can reach me on oleksandr.leontiev@proton.me
